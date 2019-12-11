@@ -1,2 +1,2 @@
-worker: node index.js
-worker: node functions.js
+worker: node index.js,
+        node functions.js;
